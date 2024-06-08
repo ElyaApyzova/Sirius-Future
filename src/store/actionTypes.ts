@@ -1,0 +1,2 @@
+export const ADD_TIMETABLE = "ADD_TIMETABLE"
+export const REMOVE_ARTICLE = "REMOVE_TIMETABLE"
